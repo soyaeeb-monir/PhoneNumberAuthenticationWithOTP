@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741048628990",
+    "project_id": "phonenumberauthenticatio-885cf",
+    "storage_bucket": "phonenumberauthenticatio-885cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741048628990:android:64fa7a89f12cd9bc2e57af",
+        "android_client_info": {
+          "package_name": "com.monir.phonenumberauthenticationwithotp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741048628990-g5af3umo47vt397uie168lmt1cnae5hg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMbLgOdIhfIFxNcnuNb1ITyPRMRdi1jTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741048628990-g5af3umo47vt397uie168lmt1cnae5hg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
